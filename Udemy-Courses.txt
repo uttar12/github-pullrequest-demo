@@ -1,0 +1,18 @@
+Angular - The Complete Guide (2022 Edition)
+
+AZ-204: Developing Solutions for Microsoft Azure - NEW
+
+.NET Core Microservices - The Complete Guide (.NET 6 MVC)
+
+AZ-204 Microsoft Azure Developer Practice Tests
+
+DevOps , CI/CD(Continuous Integration/Delivery for Beginners
+
+CI/CD Pipelines using Azure DevOps
+
+Unit Testing Dotnet (.NET) Application with xUnit .net & MOQ
+
+AZ-204 Developing Solutions for Microsoft Azure - MAY 2022
+
+Connection String:
+"Server=LT-NIKUM;Database=MangoProductAPI;User Id=sa;Password=P@ssw0rd;Trusted_Connection=True;MultipleActiveResultSets=True"
